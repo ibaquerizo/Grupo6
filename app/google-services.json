@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "987645594495",
+    "firebase_url": "https://trabajo-autonomo-7.firebaseio.com",
+    "project_id": "trabajo-autonomo-7",
+    "storage_bucket": "trabajo-autonomo-7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987645594495:android:a43cb9567532c21f2da84a",
+        "android_client_info": {
+          "package_name": "com.amst.grupo6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987645594495-ipki0si8dqe8jfinmcvueboe0o50pi9e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amst.grupo6",
+            "certificate_hash": "a1c56458cfdaed78be5c106fa83136b8cd527dde"
+          }
+        },
+        {
+          "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI_lL4qh-www9JWYI6u3S3wGTS3D6WKDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987645594495-a70i6sjip8e5oc6bfsoi4qd4cm01gfg5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
